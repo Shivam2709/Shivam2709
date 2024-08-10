@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam2709" alt="shivam2709" /></a> </p>
 
-- 🔭 I’m currently working on [learning-Management-system-backend](https://github.com/Shivam2709/learning-Management-system-backend)
+- 🔭 I’m currently working on [Nexgen Industrial Solution Pvt.Ltd]()
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **Angular.js, TypeScript, React.js, Node.js**
 
-- 👯 I’have done My Project [ProShop](https://github.com/Shivam2709/Training_Project)
+- 👯 have done My Project [Learning Management System](https://github.com/Shivam2709/Learning-Management-System-Frontend)
 
-- 💬 Ask me about **Java, JavaScript, c++**
+- 💬 Ask me about **Java, JavaScript, c++, React.js**
 
 - 📫 How to reach me **shivamthakur2709@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1knRKMA6MovnJBEijZA2BssJtn1lyuEUe/view?usp=sharing](https://drive.google.com/file/d/1knRKMA6MovnJBEijZA2BssJtn1lyuEUe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11LSqalWvQax8YQ_6qR7QyDUUMMf7Df0h/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
